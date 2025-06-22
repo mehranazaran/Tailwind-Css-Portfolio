@@ -29,7 +29,7 @@ The goal of this mini-project was to practice responsive design, layout techniqu
 ## How to Run Locally
 
 `bash
-git clone https://github.com/mehranazaran/apple-watch-tailwind-clone.git
+git clone https://github.com/mehranazaran/Tailwind-Css-Portfolio.git
 cd apple-watch-tailwind-clone
 
 Then open index.html in your browser (you can use Live Server in VS Code).
@@ -101,7 +101,7 @@ Tailwind CSS
 
 نحوه اجرا در سیستم شخصی
 
-git clone https://github.com/mehranazaran/apple-watch-tailwind-clone.git
+git clone https://github.com/mehranazaran/Tailwind-Css-Portfolio.git
 cd apple-watch-tailwind-clone
 
 سپس فایل index.html را در مرورگر باز کنید
