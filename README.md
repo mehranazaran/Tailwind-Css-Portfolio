@@ -6,6 +6,9 @@ This is a UI clone of the Apple Watch section from the Digikala product page, bu
 The goal of this mini-project was to practice responsive design, layout techniques, and modern utility-first CSS using Tailwind.
 
 ---
+## 📸 Preview
+
+<img src="Screenshot%20(37).png" alt="App Screenshot" width="100%" style="border-radius: 12px;" />
 
 ## Features
 
